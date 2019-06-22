@@ -42,7 +42,7 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 打开Shadowrocket，点击右上角加号，在添加节点页面，将类型改为Subscribe，复制订阅地址粘贴到URL中，然后点击右上角完成即可。
 
-![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/s5.JPG)
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/s5.jpg)
 
 在Shadowrocket设置--服务器订阅中打开【打开时更新】选项。
 
