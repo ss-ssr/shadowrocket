@@ -1,4 +1,4 @@
-# 付費穩定服務器
+# SS/SSR付費穩定服務器
 
 SS/ShadowsocksR付費穩定服務器！
 
