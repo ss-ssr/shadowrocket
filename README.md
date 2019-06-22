@@ -1,3 +1,3 @@
 # Shadowrocket在线安装
 
-https://i.shadowrocket.org/
+Shadowrocket（小火箭） https://i.shadowrocket.org/
