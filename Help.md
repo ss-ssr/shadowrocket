@@ -62,7 +62,3 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 回到首页，打开连接开关，享受科学上网吧！
 
 <hr>
-
-### 【AD】SS/ShadowsocksR付費穩定服務器
-
-<a class="btn btn-danger" href="https://s-s-r.github.io/">一鍵接入,鏈接全球</a>   <a class="btn btn-danger" href="http://t.cn/ESZVCWD">免费试用SS/SSR服务器节点获取</a>
