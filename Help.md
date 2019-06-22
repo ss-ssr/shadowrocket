@@ -8,9 +8,9 @@ Shadowrocket 是一款基于 iOS新特性的 Shadowsocks 客户端。它可以�
 
 ### 准备工作，你需要准备以下两样东西
 
-1、下载 Shadowrocket （可以选择在线安装或者登陆美区苹果账号自行购买，因小火箭Shadowrocket在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦。而且有些小白也会登录iCloud的，这样挺危险的，所以推荐在线安装一步到位。）
+1、下载 Shadowrocket （可以选择在线安装或者登陆美区苹果账号自行购买。因小火箭Shadowrocket在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦。而且有些小白也会登录iCloud的，这样挺危险的，所以推荐在线安装一步到位。[Shadowrocket小火箭在线安装](https://i.shadowrocket.org/) ）。
 
-2、一个可用的 Shadowsocks 账户（需要包括以下信息：服务器地址、端口号、加密方式、密码）
+2、一个可用的 Shadowsocks 账户（需要包括以下信息：服务器地址、端口号、加密方式、密码。推荐[SS/ShadowsocksR付費穩定服務器](https://s-s-r.github.io/) ）。
 
 ### 添加 Shadowsocks 账户
 
@@ -52,6 +52,6 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 <hr>
 
-![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/google.JPG)
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/google.PNG)
 
 <hr>
