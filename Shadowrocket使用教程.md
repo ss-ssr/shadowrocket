@@ -7,7 +7,7 @@
 
 ### Shadowrocket（小火箭）在线安装
 
-请在手机苹果游览器打开以下链接： <a class="btn btn-danger" href="https://i.shadowrocket.org/">i.Shadowrocket.org</a>
+请在手机苹果游览器打开以下链接： <a class="btn btn-danger" href="https://i.shadowrocket.org/">https://i.shadowrocket.org/</a>
 
 <hr>
 
