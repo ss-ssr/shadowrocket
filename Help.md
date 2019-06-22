@@ -51,3 +51,7 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 回到首页，打开连接开关，享受科学上网吧！
 
 <hr>
+
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/google.JPG)
+
+<hr>
