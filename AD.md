@@ -1,3 +1,3 @@
-# SS/ShadowsocksR付費穩定服務器
+# 付費穩定服務器
 
-<a class="btn btn-danger" href="https://s-s-r.github.io/">一鍵接入,鏈接全球</a> 
+SS/ShadowsocksR付費穩定服務器!<a class="btn btn-danger" href="https://s-s-r.github.io/">一鍵接入,鏈接全球！</a> 
