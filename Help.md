@@ -1,6 +1,6 @@
 # Shadowrocket使用教程
 
-[![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/files/xhj.jpg)](https://i.shadowrocket.org/)
+[![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/xhj.jpg)](https://i.shadowrocket.org/)
 
 ### Shadowrocket 入门使用教程
 
@@ -16,17 +16,17 @@ Shadowrocket 是一款基于 iOS新特性的 Shadowsocks 客户端。它可以�
 
 Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来也是极其方便。点击左上角的方框即可扫描 Shadowsocks 账户的二维码，免去输入的麻烦。
 
-![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/files/s1.png)
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/s1.png)
 
 第一次连接时会弹出一个添加代理的提示框，点“Allow”允许，否则不能用。如果你有多个节点，连接后是使用前面有圆点的节点，点击节点即选中作为默认，选中的节点使用中无法删除。
 
-![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/files/s02.png)
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/s02.png)
 
 或者你也可以点击右上角的加号进行手动输入
 
-![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/files/s2.png)
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/s2.png)
 
-![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/files/s3.png)
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/s3.png)
 
 ### 规则的设置
 
@@ -34,7 +34,7 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 点击 Settings，然后在点击 Config 你就可以看到以下界面
 
-![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/files/s4.png)
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/s4.png)
 
 点击 + 通过添加链接，在点击 Use Config 来下载规则文件。你可以对其进行编辑，以满足自己的使用习惯。点击感叹号，然后在点击 Add Rule，点击 Type，就可以看到多种过滤方式进行设置了。
 
@@ -42,11 +42,11 @@ Shadowrocket 是一款专门为 Shadowsocks 设计的 APP，所以添加起来�
 
 打开Shadowrocket，点击右上角加号，在添加节点页面，将类型改为Subscribe，复制订阅地址粘贴到URL中，然后点击右上角完成即可。
 
-![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/files/s5.JPG)
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/s5.JPG)
 
 在Shadowrocket设置--服务器订阅中打开【打开时更新】选项。
 
-![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/files/s6.png)
+![](https://raw.githubusercontent.com/ss-ssr/shadowrocket/master/files/s6.png)
 
 回到首页，打开连接开关，享受科学上网吧！
 
