@@ -1,16 +1,5 @@
 # Shadowrocket使用教程
 
-
-小火箭Shadowrocket在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦。而且有些小白也会登录iCloud的，这样挺危险的，所以推荐在线安装一步到位。
-
-<hr>
-
-### Shadowrocket（小火箭）在线安装
-
-请在手机苹果游览器打开以下链接： <a class="btn btn-danger" href="https://i.shadowrocket.org/">https://i.shadowrocket.org/</a>
-
-<hr>
-
 [![](https://raw.githubusercontent.com/Gitgle/Gitgle.GitHub.io/master/assets/images/xhj.jpg)](https://i.shadowrocket.org/)
 
 ### Shadowrocket 入门使用教程
@@ -19,7 +8,7 @@ Shadowrocket 是一款基于 iOS新特性的 Shadowsocks 客户端。它可以�
 
 ### 准备工作，你需要准备以下两样东西
 
-1、下载 Shadowrocket （可以选择上面的在线安装或者登陆美区苹果账号自行购买）
+1、下载 Shadowrocket （可以选择在线安装或者登陆美区苹果账号自行购买，因小火箭Shadowrocket在iOS国区里已经下架了，需要登录非国区ID才能下载，非常的麻烦。而且有些小白也会登录iCloud的，这样挺危险的，所以推荐在线安装一步到位。）
 
 2、一个可用的 Shadowsocks 账户（需要包括以下信息：服务器地址、端口号、加密方式、密码）
 
